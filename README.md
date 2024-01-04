@@ -45,3 +45,5 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaschavesn&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" alt="lucaschavesn"></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasChavesN&show_icons=true&theme=midnight-purple&layout=compact"/></p>
