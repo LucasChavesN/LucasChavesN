@@ -8,7 +8,7 @@
 
 - 🌱 Atualmente aprendendo **Frameworks Quarkus, Spring & Spring Boot**
 
-- 👯 Estou colaborando em **AutoNotas** disponível em <a href="(https://github.com/DevLucas2022/AutoNotas.git)">
+- 👯 Estou colaborando em **AutoNotas** disponível em [https://github.com/LucasChavesN](https://github.com/DevLucas2022/AutoNotas.git)
 
 - 👨‍💻 Projetos e Estudos disponíveis em [https://github.com/LucasChavesN](https://github.com/LucasChavesN)
 
