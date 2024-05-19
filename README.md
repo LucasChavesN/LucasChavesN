@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou atualizando **Customer Success**
 
-- 🌱 Atualmente aprendendo **Frameworks Quarkus, Spring & Spring Boot**
+- 🌱 Atualmente aprendendo **Frameworks Spring & Spring Boot**
 
 - 👯 Estou colaborando em **AutoNotas** disponível em [https://github.com/DevLucas2022/AutoNotas.git](https://github.com/DevLucas2022/AutoNotas.git)
 
